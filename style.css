@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #f5f5f5;
+    background: #0e9898;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,6 +27,7 @@ h1 {
     margin: 5px;
     font-size: 16px;
     cursor: pointer;
+    background-color: rgb(74, 159, 8);
 }
 
 table {
@@ -37,9 +38,9 @@ table {
 
 th, td {
     padding: 8px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #17aa9c;
 }
 
 th {
-    background-color: #eee;
+    background-color: #9d9b1e;
 }
